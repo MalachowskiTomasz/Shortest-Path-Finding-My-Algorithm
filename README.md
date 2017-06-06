@@ -1,4 +1,4 @@
-# Małachowski's Algorithm
+# My Algorithm
 
 This algorithm connects advantages of Prim Algorithm and Dijkstra Algorithm to find the shortest path in the graph
 
